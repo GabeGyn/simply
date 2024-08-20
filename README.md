@@ -1,1 +1,3 @@
-# simply
+# Simply: a simple homepage
+
+# 
